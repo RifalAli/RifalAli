@@ -9,10 +9,9 @@ I am a Programmer currently do stuff in Fullstack Development / Game Development
 - 🛠 &nbsp; I’m currently working with C#, Kotlin, PHP, etc.
 - 🚀 &nbsp; I’m currently exploring Desktop, Android, Web, etc.
 - :speech_balloon: &nbsp; I like to talk and discuss about **Algorithms**
-- :book: &nbsp; Learn more about my profile on my **[website](https://revalt.000webhostapp.com/)**
 - 📫 &nbsp; Ask me anything on my **social media** or **email**.
 - 👾 &nbsp; Quote: "If you can get 1% better each day for one year, you'll end up 37 times better by the time you're done."
-- :computer: &nbsp; Reach me out: rifalali279@gmail.com.
+- :computer: &nbsp; Reach me out: alirifal485@gmail.com.
 
 <h2 align="left" id="revalt-tech">Favorite Tech</h2>
 
