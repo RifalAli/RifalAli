@@ -49,12 +49,6 @@ I am a Programmer currently do stuff in Fullstack Development / Game Development
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96"> 
-      <a href="#revalt-tech" >
-        <img src="./img/json.svg" width="48" height="48" alt="JSON" />
-      </a>
-      <br>JSON
-    </td>
   </tr>
 </table>
 
